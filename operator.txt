@@ -1,0 +1,13 @@
+Operators
+1. unary Operators Ex.- +,-,++,--, sizeof()  ++--- increment operator  -- decrement operator
+2. Arithmetic Operators  */% + -  Always solve LTR
+3. Bitwise Operators
+4. Relational Operators
+5. Logical Operators
+6. Conditional Operators
+7. Assignment Operators
+
+
+
+++x  post increment
+x++ pre increment
